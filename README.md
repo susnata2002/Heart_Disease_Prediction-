@@ -1,0 +1,1 @@
+I have used 5 Basic ML algorithms for this ML peoject
